@@ -1,0 +1,12 @@
+*
+!.gitignore
+!/alacritty
+!/alacritty/**
+!/hypr
+!/hypr/**
+!/uwsm
+!/uwsm/**
+!/waybar
+!/waybar/**
+!/walker
+!/walker/**
